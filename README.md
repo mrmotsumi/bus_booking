@@ -4,7 +4,7 @@ A Bus Seat Reservation System
 
 ## Getting Started
 
-[Demo](https://james-muriithi.github.io/bus/index.html)
+[Demo](http://loginregister.more-xtech.com/)
 
 
 This is a simple bus booking project am working on currently.
